@@ -1,8 +1,8 @@
 ### Oii! Sou a Larissah Sut
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Estudando React
-- 😄 Pronouns: ela/dela
+- 🌱 Estou atualmente estudando React
+- 😄 Pronomes: ela/dela
 - ⚡ Almejo me tornar desenvolvedora front-end
 
 <div align="center">
