@@ -1,8 +1,5 @@
 ### Oii! Sou a Larissah Sut
 
-
-Here are some ideas to get you started:
-
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Estudando React
 - 😄 Pronouns: ela/dela
